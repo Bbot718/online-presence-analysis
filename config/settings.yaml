@@ -1,0 +1,11 @@
+output_directory: "./reports"
+logging_level: "INFO"
+default_website: "https://example.com"
+competitors:
+  - "https://competitor1.com"
+  - "https://competitor2.com"
+social_media:
+  instagram: "your_instagram_user_id"
+  facebook: "your_facebook_page_id"
+  linkedin: "your_linkedin_page_id"
+social_media_access_token: "your_access_token"
