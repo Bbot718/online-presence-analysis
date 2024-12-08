@@ -1,11 +1,24 @@
 output_directory: "./reports"
 logging_level: "INFO"
+
+# Website Analysis
 default_website: "https://example.com"
 competitors:
   - "https://competitor1.com"
   - "https://competitor2.com"
-social_media:
-  instagram: "your_instagram_user_id"
-  facebook: "your_facebook_page_id"
-  linkedin: "your_linkedin_page_id"
-social_media_access_token: "your_access_token"
+
+# Social Media URLs
+social_media_urls:
+  instagram: "https://instagram.com/exampleprofile"
+  facebook: "https://facebook.com/examplepage"
+  linkedin: "https://linkedin.com/company/example"
+
+# Advertising Insights
+ads_urls:
+  facebook_ad_library: "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&q=example"
+
+# Customer Reviews
+review_url: "https://example.com/reviews"
+
+# API Keys
+google_api_key: "AIzaSyBcNLEqW7T20lZFHdljT7FAJgLa2QTsoso"

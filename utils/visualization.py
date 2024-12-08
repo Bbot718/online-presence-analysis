@@ -1,23 +1,25 @@
-import pandas as pd
 import matplotlib.pyplot as plt
 
-def plot_comparison_chart(data, filename="comparison_chart.png"):
-    """
-    Creates a bar chart for competitor comparison.
+def plot_social_media_metrics(data, filename="social_media_metrics.png"):
+    platforms = list(data.keys())
+    metrics = {}
 
-    Parameters:
-        data (dict): Comparison data structured as {metric: {url: value}}.
-        filename (str): File path to save the chart image.
+    # Collect metrics for each platform
+    for platform, details in data.items():
+        if "Error" not in details:  # Skip platforms with errors
+            for metric, value in details.items():
+                if isinstance(value, (int, float)):  # Only numerical data
+                    metrics.setdefault(metric, []).append(value)
 
-    Returns:
-        str: Path to the saved chart image.
-    """
-    df = pd.DataFrame(data).T  # Convert to DataFrame for easier plotting
-    df.plot(kind="bar")
-    plt.title("Competitor Comparison")
-    plt.xlabel("Metrics")
-    plt.ylabel("Scores")
-    plt.xticks(rotation=45)
+    x = range(len(platforms))
+    for i, (metric, values) in enumerate(metrics.items()):
+        plt.bar([p + i * 0.2 for p in x], values, width=0.2, label=metric)
+
+    plt.xticks([p + 0.2 * (len(metrics) - 1) / 2 for p in x], platforms)
+    plt.title("Social Media Metrics")
+    plt.xlabel("Platforms")
+    plt.ylabel("Values")
+    plt.legend(title="Metrics")
     plt.tight_layout()
     plt.savefig(filename)
     plt.close()
