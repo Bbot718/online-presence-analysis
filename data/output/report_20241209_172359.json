@@ -1,6 +1,6 @@
 {
   "url": "https://garage-sport-auto.ch/",
-  "timestamp": "2024-12-09T12:28:33.754533",
+  "timestamp": "2024-12-09T17:23:26.328449",
   "seo_analysis": {
     "meta_tags": {
       "title": "Garage Sport Auto – Votre agent au coeur de la ville",
@@ -93,12 +93,12 @@
       "viewport_content": "width=device-width, initial-scale=1, shrink-to-fit=no"
     },
     "score": {
-      "overall": 85,
-      "meta_tags": 90,
-      "headings": 80,
-      "links": 85,
-      "images": 75,
-      "mobile": 90
+      "meta_tags": 0,
+      "headings": 0,
+      "links": 0,
+      "images": 0,
+      "mobile": 0,
+      "overall": 0
     },
     "recommendations": {
       "recommendations": [
@@ -115,26 +115,26 @@
           "impact": "Better content structure"
         }
       ],
-      "analysis": "\nSEO Analysis Summary:\nOverall Score: 85/100\n\nKey Findings:\n- Title Tag: Garage Sport Auto – Votre agent au coeur de la ville (52 characters)\n- Meta Description: Missing\n- Headings Structure: Good structure (H1: 1, H2: 6, H3: 2)\n- Internal Links: 11\n- External Links: 4\n- Image Optimization: 12/15 images have alt text\n\nPrimary Strengths:\n- Clean URL structure\n- Good heading hierarchy\n- Mobile-friendly configuration\n\nAreas for Improvement:\n- Multiple H1 headings: Use only one H1 heading per page (Priority: Medium)\n\n\nThis website shows good SEO health and would benefit from implementing the recommended improvements to enhance search engine visibility.\n"
+      "analysis": "\nSEO Analysis Summary:\nOverall Score: 0/100\n\nKey Findings:\n- Title Tag: Garage Sport Auto – Votre agent au coeur de la ville (52 characters)\n- Meta Description: Missing\n- Headings Structure: Good structure (H1: 1, H2: 6, H3: 2)\n- Internal Links: 11\n- External Links: 4\n- Image Optimization: 12/15 images have alt text\n\nPrimary Strengths:\n- Clean URL structure\n- Good heading hierarchy\n- Mobile-friendly configuration\n\nAreas for Improvement:\n- Multiple H1 headings: Use only one H1 heading per page (Priority: Medium)\n\n\nThis website shows poor SEO health and would benefit from implementing the recommended improvements to enhance search engine visibility.\n"
     }
   },
   "performance_analysis": {
-    "score": 59,
+    "score": 60,
     "metrics": {
       "first_contentful_paint": {
         "score": 0.03,
-        "value": 6033.904,
-        "display_value": "6.0 s"
+        "value": 6090.909999999999,
+        "display_value": "6.1 s"
       },
       "largest_contentful_paint": {
         "score": 0,
-        "value": 10495.238000000001,
-        "display_value": "10.5 s"
+        "value": 10411.446999999996,
+        "display_value": "10.4 s"
       },
       "total_blocking_time": {
         "score": 1,
-        "value": 27,
-        "display_value": "30 ms"
+        "value": 21,
+        "display_value": "20 ms"
       },
       "cumulative_layout_shift": {
         "score": 1,
@@ -142,9 +142,9 @@
         "display_value": "0"
       },
       "speed_index": {
-        "score": 0.37,
-        "value": 6626.754639668379,
-        "display_value": "6.6 s"
+        "score": 0.45,
+        "value": 6090.909999999999,
+        "display_value": "6.1 s"
       }
     },
     "opportunities": {
@@ -152,14 +152,14 @@
         "title": "Eliminate render-blocking resources",
         "description": "Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles. [Learn how to eliminate render-blocking resources](https://developer.chrome.com/docs/lighthouse/performance/render-blocking-resources/).",
         "score": 0,
-        "savings_ms": 476,
-        "display_value": "Potential savings of 480 ms"
+        "savings_ms": 627,
+        "display_value": "Potential savings of 630 ms"
       },
       "unused-javascript": {
         "title": "Reduce unused JavaScript",
         "description": "Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. [Learn how to reduce unused JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unused-javascript/).",
         "score": 0,
-        "savings_ms": 1250,
+        "savings_ms": 1090,
         "display_value": "Potential savings of 147 KiB"
       },
       "unminified-javascript": {
@@ -173,7 +173,7 @@
         "title": "Serve images in next-gen formats",
         "description": "Image formats like WebP and AVIF often provide better compression than PNG or JPEG, which means faster downloads and less data consumption. [Learn more about modern image formats](https://developer.chrome.com/docs/lighthouse/performance/uses-webp-images/).",
         "score": 0,
-        "savings_ms": 1770,
+        "savings_ms": 1810,
         "display_value": "Potential savings of 521 KiB"
       },
       "uses-optimized-images": {
@@ -231,12 +231,12 @@
         "title": "JavaScript execution time",
         "description": "Consider reducing the time spent parsing, compiling, and executing JS. You may find delivering smaller JS payloads helps with this. [Learn how to reduce Javascript execution time](https://developer.chrome.com/docs/lighthouse/performance/bootup-time/).",
         "score": 1,
-        "display_value": "0.6 s"
+        "display_value": "0.4 s"
       }
     },
     "recommendations": {
       "recommendations": [],
-      "analysis": "\nPerformance Analysis Summary:\nOverall Performance Score: 59/100\n\nCore Web Vitals:\n- First Contentful Paint (FCP): 6.0 s\n- Largest Contentful Paint (LCP): 10.5 s\n- Cumulative Layout Shift (CLS): 0\n- Total Blocking Time: 30 ms\n\nKey Performance Insights:\n- Speed Index: 6.6 s\n- Time to Interactive: N/A\n\nCritical Optimizations Needed:\nNo specific recommendations\n\nThe website's performance is needs improvement. Focus should be placed on optimizing the identified areas to improve user experience and Core Web Vitals scores.\n"
+      "analysis": "\nPerformance Analysis Summary:\nOverall Performance Score: 60/100\n\nCore Web Vitals:\n- First Contentful Paint (FCP): 6.1 s\n- Largest Contentful Paint (LCP): 10.4 s\n- Cumulative Layout Shift (CLS): 0\n- Total Blocking Time: 20 ms\n\nKey Performance Insights:\n- Speed Index: 6.1 s\n- Time to Interactive: N/A\n\nCritical Optimizations Needed:\nNo specific recommendations\n\nThe website's performance is needs improvement. Focus should be placed on optimizing the identified areas to improve user experience and Core Web Vitals scores.\n"
     }
   },
   "content_analysis": {
@@ -761,10 +761,10 @@
         ]
       },
       "pagespeed": {
-        "performance_score": 71.0,
+        "performance_score": 74.0,
         "first_contentful_paint": "1.2 s",
-        "speed_index": "2.1 s",
-        "time_to_interactive": "9.5 s"
+        "speed_index": "1.9 s",
+        "time_to_interactive": "10.9 s"
       }
     },
     "recommendations": {
@@ -811,6 +811,6 @@
     "positive_aspects": [
       "Valid SSL certificate"
     ],
-    "conclusion": "\nOverall Website Analysis Conclusion:\n\nThis website analysis reveals a mixed profile of strengths and areas requiring improvement:\n\n1. SEO Performance:\n   - Overall SEO score: 85/100 - good\n\n2. Technical Health:\n   - Technical foundation is strong\n\n3. Performance Metrics:\n   - Performance score: 59/100 - needs improvement\n\n4. Content Quality:\n   - Content quality is needs improvement\n\nPriority Action Items:\n1. Add a compelling meta description\n2. Expand content length and depth\n3. Improve accessibility with ARIA landmarks\n\nImplementation of these recommendations will significantly improve the website's overall effectiveness and user experience.\n"
+    "conclusion": "\nOverall Website Analysis Conclusion:\n\nThis website analysis reveals a mixed profile of strengths and areas requiring improvement:\n\n1. SEO Performance:\n   - Overall SEO score: 0/100 - poor\n\n2. Technical Health:\n   - Technical foundation is strong\n\n3. Performance Metrics:\n   - Performance score: 60/100 - needs improvement\n\n4. Content Quality:\n   - Content quality is needs improvement\n\nPriority Action Items:\n1. Add a compelling meta description\n2. Expand content length and depth\n3. Improve accessibility with ARIA landmarks\n\nImplementation of these recommendations will significantly improve the website's overall effectiveness and user experience.\n"
   }
 }

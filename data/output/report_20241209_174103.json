@@ -1,0 +1,816 @@
+{
+  "url": "https://garage-sport-auto.ch/",
+  "timestamp": "2024-12-09T17:40:28.764802",
+  "seo_analysis": {
+    "meta_tags": {
+      "title": "Garage Sport Auto – Votre agent au coeur de la ville",
+      "meta_description": null,
+      "meta_keywords": null,
+      "robots": "max-image-preview:large",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "charset": "UTF-8"
+    },
+    "headings": {
+      "h1": {
+        "count": 1,
+        "content": [
+          "Votre garage au coeur de Lausanne"
+        ]
+      },
+      "h2": {
+        "count": 6,
+        "content": [
+          "Réparer votre véhicule",
+          "Acheter une voiture",
+          "Partenaire Nissan et Subaru",
+          "Tout pour votre véhicule, le conseil en plus",
+          "Téléphone",
+          "E-mail"
+        ]
+      },
+      "h3": {
+        "count": 2,
+        "content": [
+          "Bienvenue au centre-ville de Lausanne",
+          "Votre garage de proximité"
+        ]
+      },
+      "h4": {
+        "count": 0,
+        "content": []
+      },
+      "h5": {
+        "count": 0,
+        "content": []
+      },
+      "h6": {
+        "count": 0,
+        "content": []
+      }
+    },
+    "links": {
+      "internal": {
+        "count": 11,
+        "urls": [
+          "https://garage-sport-auto.ch/",
+          "https://garage-sport-auto.ch/",
+          "https://garage-sport-auto.ch/a-propos/",
+          "https://garage-sport-auto.ch/reparation/",
+          "https://garage-sport-auto.ch/vente/",
+          "https://garage-sport-auto.ch/galerie/",
+          "https://garage-sport-auto.ch/contact/",
+          "/reparation",
+          "/vente",
+          "/contact/",
+          "/a-propos/"
+        ]
+      },
+      "external": {
+        "count": 4,
+        "urls": [
+          "https://www.subaru.ch/fr/acheter-subaru/modeles/forester/apercu",
+          "https://fr.nissan.ch/",
+          "https://www.subaru.ch/fr/?gclid=Cj0KCQiArt6PBhCoARIsAMF5wajNByytnvNSOdf0m3Llb5IkK9eaLkHsWDkD7438-WnvdEdvnLcId-EaAorjEALw_wcB",
+          "https://hybride.design/"
+        ]
+      }
+    },
+    "images": {
+      "total_count": 15,
+      "with_alt": 12,
+      "without_alt": 3
+    },
+    "url_structure": {
+      "protocol": "https",
+      "domain": "garage-sport-auto.ch",
+      "path": "/",
+      "parameters": "",
+      "query": "",
+      "is_clean": true
+    },
+    "mobile_friendly": {
+      "has_viewport": true,
+      "viewport_content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+    },
+    "score": {
+      "meta_tags": 65,
+      "headings": 100,
+      "links": 100,
+      "images": 80.0,
+      "mobile": 100,
+      "overall": 89
+    },
+    "recommendations": {
+      "recommendations": [
+        {
+          "issue": "Multiple H1 headings",
+          "priority": "Medium",
+          "recommendation": "Use only one H1 heading per page",
+          "current": {
+            "count": 1,
+            "content": [
+              "Votre garage au coeur de Lausanne"
+            ]
+          },
+          "impact": "Better content structure"
+        }
+      ],
+      "analysis": "\nSEO Analysis Summary:\nOverall Score: 89/100\n\nKey Findings:\n- Title Tag: Garage Sport Auto – Votre agent au coeur de la ville (52 characters)\n- Meta Description: Missing\n- Headings Structure: Good structure (H1: 1, H2: 6, H3: 2)\n- Internal Links: 11\n- External Links: 4\n- Image Optimization: 12/15 images have alt text\n\nPrimary Strengths:\n- Clean URL structure\n- Good heading hierarchy\n- Mobile-friendly configuration\n\nAreas for Improvement:\n- Multiple H1 headings: Use only one H1 heading per page (Priority: Medium)\n\n\nThis website shows good SEO health and would benefit from implementing the recommended improvements to enhance search engine visibility.\n"
+    }
+  },
+  "performance_analysis": {
+    "score": 60,
+    "metrics": {
+      "first_contentful_paint": {
+        "score": 0.03,
+        "value": 6144.6280000000015,
+        "display_value": "6.1 s"
+      },
+      "largest_contentful_paint": {
+        "score": 0,
+        "value": 10563.701,
+        "display_value": "10.6 s"
+      },
+      "total_blocking_time": {
+        "score": 1,
+        "value": 22,
+        "display_value": "20 ms"
+      },
+      "cumulative_layout_shift": {
+        "score": 1,
+        "value": 0,
+        "display_value": "0"
+      },
+      "speed_index": {
+        "score": 0.44,
+        "value": 6144.6280000000015,
+        "display_value": "6.1 s"
+      }
+    },
+    "opportunities": {
+      "render-blocking-resources": {
+        "title": "Eliminate render-blocking resources",
+        "description": "Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles. [Learn how to eliminate render-blocking resources](https://developer.chrome.com/docs/lighthouse/performance/render-blocking-resources/).",
+        "score": 0,
+        "savings_ms": 635,
+        "display_value": "Potential savings of 640 ms"
+      },
+      "unused-javascript": {
+        "title": "Reduce unused JavaScript",
+        "description": "Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. [Learn how to reduce unused JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unused-javascript/).",
+        "score": 0,
+        "savings_ms": 1260,
+        "display_value": "Potential savings of 147 KiB"
+      },
+      "unminified-javascript": {
+        "title": "Minify JavaScript",
+        "description": "Minifying JavaScript files can reduce payload sizes and script parse time. [Learn how to minify JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unminified-javascript/).",
+        "score": 0.5,
+        "savings_ms": 0,
+        "display_value": "Potential savings of 2 KiB"
+      },
+      "modern-image-formats": {
+        "title": "Serve images in next-gen formats",
+        "description": "Image formats like WebP and AVIF often provide better compression than PNG or JPEG, which means faster downloads and less data consumption. [Learn more about modern image formats](https://developer.chrome.com/docs/lighthouse/performance/uses-webp-images/).",
+        "score": 0,
+        "savings_ms": 1880,
+        "display_value": "Potential savings of 521 KiB"
+      },
+      "uses-optimized-images": {
+        "title": "Efficiently encode images",
+        "description": "Optimized images load faster and consume less cellular data. [Learn how to efficiently encode images](https://developer.chrome.com/docs/lighthouse/performance/uses-optimized-images/).",
+        "score": 0,
+        "savings_ms": 680,
+        "display_value": "Potential savings of 139 KiB"
+      }
+    },
+    "diagnostics": {
+      "total-byte-weight": {
+        "title": "Avoid enormous network payloads",
+        "description": "Large network payloads cost users real money and are highly correlated with long load times. [Learn how to reduce payload sizes](https://developer.chrome.com/docs/lighthouse/performance/total-byte-weight/).",
+        "score": 0.5,
+        "display_value": "Total size was 16,006 KiB"
+      },
+      "dom-size": {
+        "title": "Avoids an excessive DOM size",
+        "description": "A large DOM will increase memory usage, cause longer [style calculations](https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations), and produce costly [layout reflows](https://developers.google.com/speed/articles/reflow). [Learn how to avoid an excessive DOM size](https://developer.chrome.com/docs/lighthouse/performance/dom-size/).",
+        "score": 1,
+        "display_value": "163 elements"
+      },
+      "critical-request-chains": {
+        "title": "Avoid chaining critical requests",
+        "description": "The Critical Request Chains below show you what resources are loaded with a high priority. Consider reducing the length of chains, reducing the download size of resources, or deferring the download of unnecessary resources to improve page load. [Learn how to avoid chaining critical requests](https://developer.chrome.com/docs/lighthouse/performance/critical-request-chains/).",
+        "score": 1,
+        "display_value": "18 chains found"
+      },
+      "network-requests": {
+        "title": "Network Requests",
+        "description": "Lists the network requests that were made during page load.",
+        "score": 1,
+        "display_value": ""
+      },
+      "network-rtt": {
+        "title": "Network Round Trip Times",
+        "description": "Network round trip times (RTT) have a large impact on performance. If the RTT to an origin is high, it's an indication that servers closer to the user could improve performance. [Learn more about the Round Trip Time](https://hpbn.co/primer-on-latency-and-bandwidth/).",
+        "score": 1,
+        "display_value": "20 ms"
+      },
+      "network-server-latency": {
+        "title": "Server Backend Latencies",
+        "description": "Server latencies can impact web performance. If the server latency of an origin is high, it's an indication the server is overloaded or has poor backend performance. [Learn more about server response time](https://hpbn.co/primer-on-web-performance/#analyzing-the-resource-waterfall).",
+        "score": 1,
+        "display_value": "30 ms"
+      },
+      "main-thread-tasks": {
+        "title": "Tasks",
+        "description": "Lists the toplevel main thread tasks that executed during page load.",
+        "score": 1,
+        "display_value": ""
+      },
+      "bootup-time": {
+        "title": "JavaScript execution time",
+        "description": "Consider reducing the time spent parsing, compiling, and executing JS. You may find delivering smaller JS payloads helps with this. [Learn how to reduce Javascript execution time](https://developer.chrome.com/docs/lighthouse/performance/bootup-time/).",
+        "score": 1,
+        "display_value": "0.4 s"
+      }
+    },
+    "recommendations": {
+      "recommendations": [],
+      "analysis": "\nPerformance Analysis Summary:\nOverall Performance Score: 60/100\n\nCore Web Vitals:\n- First Contentful Paint (FCP): 6.1 s\n- Largest Contentful Paint (LCP): 10.6 s\n- Cumulative Layout Shift (CLS): 0\n- Total Blocking Time: 20 ms\n\nKey Performance Insights:\n- Speed Index: 6.1 s\n- Time to Interactive: N/A\n\nCritical Optimizations Needed:\nNo specific recommendations\n\nThe website's performance is needs improvement. Focus should be placed on optimizing the identified areas to improve user experience and Core Web Vitals scores.\n"
+    }
+  },
+  "content_analysis": {
+    "text_content": "",
+    "word_count": 0,
+    "readability_scores": {},
+    "sentiment_analysis": {},
+    "keywords": [],
+    "recommendations": {
+      "recommendations": [
+        {
+          "issue": "Low word count",
+          "priority": "High",
+          "metric": "0 words",
+          "recommendation": "Add more content to reach at least 300 words",
+          "impact": "Better search rankings and content depth"
+        },
+        {
+          "issue": "Few key topics identified",
+          "priority": "Medium",
+          "current": [],
+          "recommendation": "Add more relevant keywords and topics",
+          "impact": "Better topic coverage and SEO"
+        },
+        {
+          "issue": "Poor content structure",
+          "priority": "High",
+          "recommendation": "Add headings to structure content",
+          "impact": "Better readability and SEO"
+        }
+      ],
+      "analysis": "\nContent Analysis Summary:\n\nContent Overview:\n- Total Word Count: 0 words\n- Readability Score: N/A\n- Key Topics: \n\nContent Quality Assessment:\n- Text Length: Insufficient\n- Content Structure: Poor - No clear structure\n- Keyword Usage: Limited keyword presence\n\nSentiment Analysis:\nSentiment analysis not available\n\nContent Recommendations:\n- Low word count: Add more content to reach at least 300 words (Priority: High)\n- Few key topics identified: Add more relevant keywords and topics (Priority: Medium)\n- Poor content structure: Add headings to structure content (Priority: High)\n\n\nThe content quality is needs improvement. Focus on implementing the recommendations to improve engagement and value for visitors.\n"
+    }
+  },
+  "technical_analysis": {
+    "mobile_responsiveness": {
+      "has_viewport": true,
+      "viewport_content": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "media_queries": 4,
+      "responsive_images": {
+        "total": 15,
+        "srcset": 3,
+        "sizes": 3
+      }
+    },
+    "security": {
+      "headers": {
+        "strict_transport_security": "max-age=16000000",
+        "x_frame_options": null,
+        "x_content_type_options": null,
+        "x_xss_protection": null,
+        "content_security_policy": null,
+        "referrer_policy": null,
+        "permissions_policy": null
+      },
+      "ssl_certificate": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R10"
+        },
+        "expiry_date": "Jan 14 17:38:58 2025 GMT",
+        "version": 3
+      },
+      "mozilla_observatory": null
+    },
+    "accessibility": {
+      "basic_checks": {
+        "images_with_alt": 14,
+        "images_without_alt": 1,
+        "aria_landmarks": 0,
+        "form_labels": 0,
+        "skip_links": 0
+      },
+      "wave_results": {}
+    },
+    "seo_technical": {
+      "schema_markup": {
+        "has_schema": false,
+        "schema_types": []
+      },
+      "sitemap": {
+        "exists": true,
+        "url_count": 0,
+        "last_modified": null
+      },
+      "robots_txt": {
+        "exists": true,
+        "size": 30,
+        "user_agents": {
+          "*": []
+        },
+        "has_sitemap": false
+      }
+    },
+    "validation": {
+      "w3c": {
+        "errors": 8,
+        "warnings": 0,
+        "messages": [
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 5,
+            "extract": "\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\"/>\n\t\n\t<t",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 8,
+            "extract": "e</title>\n<meta name='robots' content='max-image-preview:large' />\n\t<sty",
+            "selector": ""
+          },
+          {
+            "type": "error",
+            "message": "CSS: “contain-intrinsic-size”: Property “contain-intrinsic-size” doesn't exist.",
+            "line": 9,
+            "extract": ": 3000px 1500px }</style>\n\t<sc",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 10,
+            "extract": "</style>\n\t<script type=\"text/javascript\">\n/* <!",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute for the “style” element is not needed and should be omitted.",
+            "line": 17,
+            "extract": "</script>\n<style id='wp-emoji-styles-inline-css' type='text/css'>\n\n\timg",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 31,
+            "extract": "\n</style>\n<link rel='stylesheet' id='contact-form-7-css' href='https://garage-sport-auto.ch/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.3' type='text/css' media='all' />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 32,
+            "extract": "='all' />\n<link rel='stylesheet' id='responsive-lightbox-swipebox-css' href='https://garage-sport-auto.ch/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.min.css?ver=2.4.7' type='text/css' media='all' />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 33,
+            "extract": "='all' />\n<link rel='stylesheet' id='hybride_style-css' href='https://garage-sport-auto.ch/wp-content/themes/hybridedesign/style.css?ver=1.0' type='text/css' media='all' />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 34,
+            "extract": "='all' />\n<link rel='stylesheet' id='hybride_responsive-css' href='https://garage-sport-auto.ch/wp-content/themes/hybridedesign/css/responsive.css?ver=1.0' type='text/css' media='all' />\n<scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 35,
+            "extract": "='all' />\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-includes/js/jquery/jquery.min.js?ver=3.7.1\" id=\"jquery-core-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 36,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1\" id=\"jquery-migrate-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 37,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-content/plugins/responsive-lightbox/assets/swipebox/jquery.swipebox.min.js?ver=2.4.7\" id=\"responsive-lightbox-swipebox-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 38,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-includes/js/underscore.min.js?ver=1.13.7\" id=\"underscore-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 39,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=6.7.1\" id=\"responsive-lightbox-infinite-scroll-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 40,
+            "extract": "</script>\n<script type=\"text/javascript\" id=\"responsive-lightbox-js-before\">\n/* <!",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 45,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.4.7\" id=\"responsive-lightbox-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 46,
+            "extract": "</script>\n<link rel=\"https://api.w.org/\" href=\"https://garage-sport-auto.ch/wp-json/\" /><link ",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 46,
+            "extract": "-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://garage-sport-auto.ch/wp-json/wp/v2/pages/73\" /><link ",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 46,
+            "extract": "ges/73\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://garage-sport-auto.ch/xmlrpc.php?rsd\" />\n<meta",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 47,
+            "extract": "p?rsd\" />\n<meta name=\"generator\" content=\"WordPress 6.7.1\" />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 48,
+            "extract": "6.7.1\" />\n<link rel=\"canonical\" href=\"https://garage-sport-auto.ch/\" />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 49,
+            "extract": "o.ch/\" />\n<link rel='shortlink' href='https://garage-sport-auto.ch/' />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 50,
+            "extract": "o.ch/' />\n<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://garage-sport-auto.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgarage-sport-auto.ch%2F\" />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 51,
+            "extract": "ch%2F\" />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://garage-sport-auto.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgarage-sport-auto.ch%2F&#038;format=xml\" />\n\n\t\t<!",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 62,
+            "extract": "script>\n\n\t<link rel=\"icon\" href=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/cropped-favicon-garage-sport-auto-32x32.png\" sizes=\"32x32\" />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 63,
+            "extract": "32x32\" />\n<link rel=\"icon\" href=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/cropped-favicon-garage-sport-auto-192x192.png\" sizes=\"192x192\" />\n<link",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 64,
+            "extract": "2x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/cropped-favicon-garage-sport-auto-180x180.png\" />\n<meta",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 65,
+            "extract": "0.png\" />\n<meta name=\"msapplication-TileImage\" content=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/cropped-favicon-garage-sport-auto-270x270.png\" />\n\t\t<st",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute for the “style” element is not needed and should be omitted.",
+            "line": 66,
+            "extract": "png\" />\n\t\t<style type=\"text/css\" id=\"wp-custom-css\">\n\t\t\tst",
+            "selector": ""
+          },
+          {
+            "type": "error",
+            "message": "No space between attributes.",
+            "line": 72,
+            "extract": "age page-id-73\"\">\n\n\t<!-- pour ",
+            "selector": ""
+          },
+          {
+            "type": "error",
+            "message": "Saw “\"” when expecting an attribute name. Probable cause: “=” missing immediately before.",
+            "line": 72,
+            "extract": "age page-id-73\"\">\n\n\t<!-- pour ",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Attribute “\"” is not serializable as XML 1.0.",
+            "line": 72,
+            "extract": "\t</head>\n\n<body class=\"home page-template-default page page-id-73\"\">\n\n\t<!-",
+            "selector": ""
+          },
+          {
+            "type": "error",
+            "message": "Attribute “\"” not allowed on element “body” at this point.",
+            "line": 72,
+            "extract": "\t</head>\n\n<body class=\"home page-template-default page page-id-73\"\">\n\n\t<!-",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 88,
+            "extract": "ch/\">\n\t\t\t\t<img src=\"https://garage-sport-auto.ch/wp-content/themes/hybridedesign/img/logo-garage-sport-auto.svg\" alt=\"Logo\" />\n\t\t\t</",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 93,
+            "extract": "ENU -->\n\t\t<img src=\"https://garage-sport-auto.ch/wp-content/themes/hybridedesign/img/hamburger-menu-light.svg\" alt=\"hamburger menu icon\" id=\"hamburger_menu\" />\n\n<div",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 96,
+            "extract": "=\"menu\">\n\t<img src=\"https://garage-sport-auto.ch/wp-content/themes/hybridedesign/img/hamburger-menu-close.svg\" alt=\"hamburger menu close icon\" id=\"hamburger_menu_close\" />\n\t<nav",
+            "selector": ""
+          },
+          {
+            "type": "error",
+            "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+            "line": 128,
+            "extract": ">\n\t\t\t\n\t\t\t\t<img src=\"https://garage-sport-auto.ch/wp-content/themes/hybridedesign/img/hamburger-menu-close.svg\" id=\"promo_close\" />\n\t</di",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 128,
+            "extract": ">\n\t\t\t\n\t\t\t\t<img src=\"https://garage-sport-auto.ch/wp-content/themes/hybridedesign/img/hamburger-menu-close.svg\" id=\"promo_close\" />\n\t</di",
+            "selector": ""
+          },
+          {
+            "type": "error",
+            "message": "Bad value “” for attribute “id” on element “video”: An ID must not be the empty string.",
+            "line": 136,
+            "extract": "\n\t</div>\n\t<video autoplay loop muted playsinline id=\"\" style=\"width: 100%;\">\n\t\t<so",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 149,
+            "extract": "ent\">\n\t\t\t\t<img src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/icone-reparation-garage-sport-auto.svg\" alt=\"Icone réparation | Garage Sport Auto\" />\n\t\t\t\t<",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 161,
+            "extract": "ent\">\n\t\t\t\t<img src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/icone-vente-garage-sport-auto.svg\" alt=\"Icone vente | Garage Sport Auto\" />\n\t\t\t\t<",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 175,
+            "extract": "noopener\"><img decoding=\"async\" class=\"alignnone size-full wp-image-101\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/nissan-logo-garage-sport-auto.svg\" alt=\"Logo Nissan | Garage Sport Auto\" width=\"115\" height=\"96\" /></a></",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 179,
+            "extract": "noopener\"><img decoding=\"async\" class=\"alignnone size-full wp-image-102\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/subaro-logo-garage-sport-auto.svg\" alt=\"Logo Subaru | Garage Sport Auto\" width=\"115\" height=\"90\" /></a></",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 202,
+            "extract": "umn\">\n\t<p><img fetchpriority=\"high\" decoding=\"async\" class=\"alignleft size-full wp-image-286\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/07/garage-sport-auto.jpg\" alt=\"Garage Sport Auto\" width=\"1200\" height=\"796\" srcset=\"https://garage-sport-auto.ch/wp-content/uploads/2022/07/garage-sport-auto.jpg 1200w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/garage-sport-auto-300x199.jpg 300w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/garage-sport-auto-1024x679.jpg 1024w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/garage-sport-auto-768x509.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /></p>\n\t",
+            "selector": ""
+          },
+          {
+            "type": "error",
+            "message": "Bad value “auto, (max-width: 1200px) 100vw, 1200px” for attribute “sizes” on element “img”: Bad CSS number token: Expected a minus sign or a digit but saw “a” instead at “auto,”.",
+            "line": 214,
+            "extract": "umn\">\n\t<p><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-231 size-full\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan.jpg\" alt=\"Garage Sport Auto | Subaru et Nissan\" width=\"1200\" height=\"795\" srcset=\"https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan.jpg 1200w, https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan-300x199.jpg 300w, https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan-1024x678.jpg 1024w, https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan-768x509.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /></p>\n<",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 214,
+            "extract": "umn\">\n\t<p><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-231 size-full\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan.jpg\" alt=\"Garage Sport Auto | Subaru et Nissan\" width=\"1200\" height=\"795\" srcset=\"https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan.jpg 1200w, https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan-300x199.jpg 300w, https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan-1024x678.jpg 1024w, https://garage-sport-auto.ch/wp-content/uploads/2022/04/garage-sport-auto-subaru-nissan-768x509.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /></p>\n<",
+            "selector": ""
+          },
+          {
+            "type": "error",
+            "message": "Bad value “auto, (max-width: 1200px) 100vw, 1200px” for attribute “sizes” on element “img”: Bad CSS number token: Expected a minus sign or a digit but saw “a” instead at “auto,”.",
+            "line": 222,
+            "extract": "umn\">\n\t<p><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-285 size-full\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto.jpg\" alt=\"L'équipe | Garage Sport Auto\" width=\"1200\" height=\"801\" srcset=\"https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto.jpg 1200w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto-300x200.jpg 300w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto-1024x684.jpg 1024w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto-768x513.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /></p>\n<",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 222,
+            "extract": "umn\">\n\t<p><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-285 size-full\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto.jpg\" alt=\"L'équipe | Garage Sport Auto\" width=\"1200\" height=\"801\" srcset=\"https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto.jpg 1200w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto-300x200.jpg 300w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto-1024x684.jpg 1024w, https://garage-sport-auto.ch/wp-content/uploads/2022/07/equipe-garage-sport-auto-768x513.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /></p>\n<",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 239,
+            "extract": "ze-large\"><img loading=\"lazy\" decoding=\"async\" width=\"186\" height=\"72\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/logo-garage-sport-auto.svg\" alt=\"\" class=\"wp-image-134\"/></figu",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 262,
+            "extract": "ze-large\"><img loading=\"lazy\" decoding=\"async\" width=\"115\" height=\"96\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/nissan-logo-garage-sport-auto.svg\" alt=\"Logo Nissan | Garage Sport Auto\" class=\"wp-image-101\"/></figu",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 264,
+            "extract": "ze-large\"><img loading=\"lazy\" decoding=\"async\" width=\"115\" height=\"90\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/subaro-logo-garage-sport-auto.svg\" alt=\"Logo Subaru | Garage Sport Auto\" class=\"wp-image-102\"/></figu",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+            "line": 266,
+            "extract": "ze-large\"><img loading=\"lazy\" decoding=\"async\" width=\"134\" height=\"64\" src=\"https://garage-sport-auto.ch/wp-content/uploads/2022/01/auto-scoot-logo-garage-sport-auto.svg\" alt=\"\" class=\"wp-image-163\"/></figu",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 276,
+            "extract": "/footer>\n\t<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3\" id=\"swv-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 277,
+            "extract": "</script>\n<script type=\"text/javascript\" id=\"contact-form-7-js-extra\">\n/* <!",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 282,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.3\" id=\"contact-form-7-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 283,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-content/themes/hybridedesign/js/script.js?ver=1.0\" id=\"hybride-effet-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 284,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://www.google.com/recaptcha/api.js?render=6Lfvo0seAAAAAIAa48woZtFMNL9s2UktAc_E6U9g&amp;ver=3.0\" id=\"google-recaptcha-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 285,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0\" id=\"wp-polyfill-js\"></scri",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 286,
+            "extract": "</script>\n<script type=\"text/javascript\" id=\"wpcf7-recaptcha-js-extra\">\n/* <!",
+            "selector": ""
+          },
+          {
+            "type": "info",
+            "message": "The “type” attribute is unnecessary for JavaScript resources.",
+            "line": 291,
+            "extract": "</script>\n<script type=\"text/javascript\" src=\"https://garage-sport-auto.ch/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.3\" id=\"wpcf7-recaptcha-js\"></scri",
+            "selector": ""
+          }
+        ]
+      },
+      "pagespeed": {
+        "performance_score": 73.0,
+        "first_contentful_paint": "1.2 s",
+        "speed_index": "2.7 s",
+        "time_to_interactive": "10.7 s"
+      }
+    },
+    "recommendations": {
+      "recommendations": [
+        {
+          "issue": "Missing X-Frame-Options header",
+          "priority": "High",
+          "recommendation": "Add X-Frame-Options header",
+          "impact": "Prevent clickjacking attacks"
+        },
+        {
+          "issue": "Missing Content Security Policy",
+          "priority": "High",
+          "recommendation": "Implement Content Security Policy",
+          "impact": "Prevent XSS and other injections"
+        },
+        {
+          "issue": "Accessibility: aria_landmarks",
+          "priority": "High",
+          "recommendation": "Fix aria_landmarks for better accessibility",
+          "impact": "Improved accessibility compliance"
+        },
+        {
+          "issue": "Accessibility: form_labels",
+          "priority": "High",
+          "recommendation": "Fix form_labels for better accessibility",
+          "impact": "Improved accessibility compliance"
+        },
+        {
+          "issue": "Accessibility: skip_links",
+          "priority": "High",
+          "recommendation": "Fix skip_links for better accessibility",
+          "impact": "Improved accessibility compliance"
+        }
+      ],
+      "analysis": "\nTechnical Analysis Summary:\n\nSecurity Assessment:\n- SSL Certificate: Valid\n- Security Headers: 1/4 essential headers implemented\n- Content Security Policy: Missing\n\nAccessibility Compliance:\n- ARIA Landmarks: 0\n- Form Labels: 0\n- Image Alt Text: 14/15\n\nTechnical Infrastructure:\n- Mobile Responsiveness: Implemented\n- Schema Markup: Missing\n- Sitemap: Found\n- Robots.txt: Found\n\nCritical Technical Issues:\n- Missing X-Frame-Options header: Add X-Frame-Options header (Priority: High)\n- Missing Content Security Policy: Implement Content Security Policy (Priority: High)\n- Accessibility: aria_landmarks: Fix aria_landmarks for better accessibility (Priority: High)\n- Accessibility: form_labels: Fix form_labels for better accessibility (Priority: High)\n- Accessibility: skip_links: Fix skip_links for better accessibility (Priority: High)\n\n\nThe website's technical foundation is strong. Priority should be given to addressing security vulnerabilities and accessibility compliance issues.\n"
+    }
+  },
+  "summary": {
+    "critical_issues": [
+      "Missing meta description"
+    ],
+    "important_improvements": [],
+    "positive_aspects": [
+      "Valid SSL certificate"
+    ],
+    "conclusion": "\nOverall Website Analysis Conclusion:\n\nThis website analysis reveals a mixed profile of strengths and areas requiring improvement:\n\n1. SEO Performance:\n   - Overall SEO score: 89/100 - good\n\n2. Technical Health:\n   - Technical foundation is strong\n\n3. Performance Metrics:\n   - Performance score: 60/100 - needs improvement\n\n4. Content Quality:\n   - Content quality is needs improvement\n\nPriority Action Items:\n1. Add a compelling meta description\n2. Expand content length and depth\n3. Improve accessibility with ARIA landmarks\n\nImplementation of these recommendations will significantly improve the website's overall effectiveness and user experience.\n"
+  }
+}
