@@ -1,0 +1,6 @@
+matplotlib
+fpdf2
+openai
+requests
+pillow
+pandas
