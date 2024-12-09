@@ -1,0 +1,124 @@
+{
+  "url": "https://www.garage-sport-auto.ch",
+  "timestamp": "2024-12-09T21:34:04.927456",
+  "data": {
+    "seo": {
+      "meta_tags": {
+        "title": "Garage Sport Auto – Votre agent au coeur de la ville",
+        "meta_description": null,
+        "meta_keywords": null,
+        "robots": "max-image-preview:large",
+        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "charset": "UTF-8"
+      },
+      "headings": {
+        "h1": {
+          "count": 1,
+          "content": [
+            "Votre garage au coeur de Lausanne"
+          ]
+        },
+        "h2": {
+          "count": 6,
+          "content": [
+            "Réparer votre véhicule",
+            "Acheter une voiture",
+            "Partenaire Nissan et Subaru",
+            "Tout pour votre véhicule, le conseil en plus",
+            "Téléphone",
+            "E-mail"
+          ]
+        },
+        "h3": {
+          "count": 2,
+          "content": [
+            "Bienvenue au centre-ville de Lausanne",
+            "Votre garage de proximité"
+          ]
+        },
+        "h4": {
+          "count": 0,
+          "content": []
+        },
+        "h5": {
+          "count": 0,
+          "content": []
+        },
+        "h6": {
+          "count": 0,
+          "content": []
+        }
+      },
+      "links": {
+        "internal": {
+          "count": 4,
+          "urls": [
+            "/reparation",
+            "/vente",
+            "/contact/",
+            "/a-propos/"
+          ]
+        },
+        "external": {
+          "count": 11,
+          "urls": [
+            "https://garage-sport-auto.ch/",
+            "https://garage-sport-auto.ch/",
+            "https://garage-sport-auto.ch/a-propos/",
+            "https://garage-sport-auto.ch/reparation/",
+            "https://garage-sport-auto.ch/vente/",
+            "https://garage-sport-auto.ch/galerie/",
+            "https://garage-sport-auto.ch/contact/",
+            "https://www.subaru.ch/fr/acheter-subaru/modeles/forester/apercu",
+            "https://fr.nissan.ch/",
+            "https://www.subaru.ch/fr/?gclid=Cj0KCQiArt6PBhCoARIsAMF5wajNByytnvNSOdf0m3Llb5IkK9eaLkHsWDkD7438-WnvdEdvnLcId-EaAorjEALw_wcB",
+            "https://hybride.design/"
+          ]
+        }
+      },
+      "images": {
+        "total_count": 15,
+        "with_alt": 12,
+        "without_alt": 3
+      },
+      "url_structure": {
+        "protocol": "https",
+        "domain": "www.garage-sport-auto.ch",
+        "path": "",
+        "parameters": "",
+        "query": "",
+        "is_clean": true
+      },
+      "mobile_friendly": {
+        "has_viewport": true,
+        "viewport_content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+      },
+      "score": {
+        "meta_tags": {
+          "value": 65,
+          "description": "For example, if the score is 65/100, I would list: \"Title tag missing.\"\n\nPlease provide the exact missing elements for the given score."
+        },
+        "headings": {
+          "value": 100,
+          "description": "You have a score of 95/100. What's missing to achieve a perfect score?"
+        },
+        "links": {
+          "value": 70,
+          "description": "For a score of 70/100, you have 4 internal links and 11 external links.\nTo achieve a perfect score of 100/100, you will need:\n*"
+        },
+        "images": {
+          "value": 80,
+          "description": "The images are:\n\n1. /images/header-image.jpg\n2. /images/testimonial-image.jpg\n3. /images/service-image.jpg\n\nMissing alt text:"
+        },
+        "mobile": {
+          "value": 100,
+          "description": "For example, if a website has a mobile-friendliness score of 90/100, I would list the following as missing:\n\n* A responsive design\n* Optimized images\n* Fast loading"
+        },
+        "overall": {
+          "value": 82,
+          "description": "SEO Score: 82.25/100\n\nTop 2 Improvements Needed:\n\n1. Optimize page titles to better reflect content and include target keywords.\n2. Im"
+        }
+      }
+    }
+  }
+}

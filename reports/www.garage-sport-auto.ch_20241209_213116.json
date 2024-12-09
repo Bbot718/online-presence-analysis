@@ -1,0 +1,124 @@
+{
+  "url": "https://www.garage-sport-auto.ch",
+  "timestamp": "2024-12-09T21:31:16.197992",
+  "data": {
+    "seo": {
+      "meta_tags": {
+        "title": "Garage Sport Auto – Votre agent au coeur de la ville",
+        "meta_description": null,
+        "meta_keywords": null,
+        "robots": "max-image-preview:large",
+        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "charset": "UTF-8"
+      },
+      "headings": {
+        "h1": {
+          "count": 1,
+          "content": [
+            "Votre garage au coeur de Lausanne"
+          ]
+        },
+        "h2": {
+          "count": 6,
+          "content": [
+            "Réparer votre véhicule",
+            "Acheter une voiture",
+            "Partenaire Nissan et Subaru",
+            "Tout pour votre véhicule, le conseil en plus",
+            "Téléphone",
+            "E-mail"
+          ]
+        },
+        "h3": {
+          "count": 2,
+          "content": [
+            "Bienvenue au centre-ville de Lausanne",
+            "Votre garage de proximité"
+          ]
+        },
+        "h4": {
+          "count": 0,
+          "content": []
+        },
+        "h5": {
+          "count": 0,
+          "content": []
+        },
+        "h6": {
+          "count": 0,
+          "content": []
+        }
+      },
+      "links": {
+        "internal": {
+          "count": 4,
+          "urls": [
+            "/reparation",
+            "/vente",
+            "/contact/",
+            "/a-propos/"
+          ]
+        },
+        "external": {
+          "count": 11,
+          "urls": [
+            "https://garage-sport-auto.ch/",
+            "https://garage-sport-auto.ch/",
+            "https://garage-sport-auto.ch/a-propos/",
+            "https://garage-sport-auto.ch/reparation/",
+            "https://garage-sport-auto.ch/vente/",
+            "https://garage-sport-auto.ch/galerie/",
+            "https://garage-sport-auto.ch/contact/",
+            "https://www.subaru.ch/fr/acheter-subaru/modeles/forester/apercu",
+            "https://fr.nissan.ch/",
+            "https://www.subaru.ch/fr/?gclid=Cj0KCQiArt6PBhCoARIsAMF5wajNByytnvNSOdf0m3Llb5IkK9eaLkHsWDkD7438-WnvdEdvnLcId-EaAorjEALw_wcB",
+            "https://hybride.design/"
+          ]
+        }
+      },
+      "images": {
+        "total_count": 15,
+        "with_alt": 12,
+        "without_alt": 3
+      },
+      "url_structure": {
+        "protocol": "https",
+        "domain": "www.garage-sport-auto.ch",
+        "path": "",
+        "parameters": "",
+        "query": "",
+        "is_clean": true
+      },
+      "mobile_friendly": {
+        "has_viewport": true,
+        "viewport_content": "width=device-width, initial-scale=1, shrink-to-fit=no"
+      },
+      "score": {
+        "meta_tags": {
+          "value": 65,
+          "description": ""
+        },
+        "headings": {
+          "value": 100,
+          "description": ""
+        },
+        "links": {
+          "value": 70,
+          "description": "Please also include any recommendations for improving the score.\n        Thank you.\n\nThe SEO links score of 70/100 indicates a decent backlink profile, with 4 internal links and 11 external links. However, there is room for improvement to increase the score. One recommendation is to focus on acquiring high-quality, relevant external links from authoritative sites to improve the overall score. Additionally, optimizing internal linking can help to direct"
+        },
+        "images": {
+          "value": 80,
+          "description": ""
+        },
+        "mobile": {
+          "value": 100,
+          "description": "You may use the following information to help with your answer:\n        Mobile-friendliness is measured based on the presence and configuration of the viewport meta tag and the viewport content.\n        A score of 100/100 indicates that the website has a properly configured viewport meta tag and viewport content, which ensures a good user experience on mobile devices.\n        To improve this score, you could consider optimizing the viewport content to provide"
+        },
+        "overall": {
+          "value": 82,
+          "description": ""
+        }
+      }
+    }
+  }
+}
