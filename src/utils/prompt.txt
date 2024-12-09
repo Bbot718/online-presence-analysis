@@ -1,0 +1,34 @@
+
+Analyze the following SEO audit data and create a comprehensive, professional report designed for both technical and non-technical stakeholders. The report should include the following sections:
+	1.	Executive Summary: A concise overview of the website’s SEO health, including the overall SEO score and key findings (strengths and weaknesses).
+	2.	Detailed Component Analysis:
+	•	Meta Information: Assess the presence and quality of meta tags, including title, description, viewport, and charset.
+	•	Content Structure: Evaluate the use of headings (H1-H6), their hierarchy, and logical organization.
+	•	Link Strategy: Analyze internal and external link distribution, structure, and opportunities for improvement.
+	•	Image Optimization: Identify missing alt text, optimization issues, and suggestions to improve image SEO.
+	•	Mobile Friendliness and Technical SEO: Highlight mobile responsiveness and technical configuration such as clean URLs and HTTPS usage.
+	3.	Critical Issues: Identify high-priority issues (e.g., missing meta descriptions, unoptimized images) and explain their impact on search visibility, user engagement, and click-through rates. Provide data-driven recommendations.
+	4.	Recommended Improvements:
+	•	Actionable steps for addressing critical issues.
+	•	Expected impact of implementing these changes.
+	5.	Priority Actions:
+	•	Add meta descriptions: Explain how this affects SEO (e.g., improved click-through rates).
+	•	Complete image alt text optimization: Provide the number of images affected and the impact of addressing this issue.
+	•	Enhance internal linking strategy: Highlight how improved crawlability and user navigation can boost search rankings.
+	6.	Strategic Plan:
+	•	Short-term (0–1 month): Immediate actions like adding missing meta descriptions, optimizing alt text, and fixing technical SEO issues.
+	•	Medium-term (1–6 months): Implementing a stronger internal linking strategy, creating new content to fill topical gaps, and improving existing content for keyword optimization.
+	•	Long-term (6–12+ months): Advanced strategies like implementing schema markup, enhancing local SEO (e.g., Google My Business), and leveraging analytics to refine content strategies.
+	7.	Current Strengths: Acknowledge well-executed SEO practices like mobile responsiveness, clean URL structures, and proper HTTPS implementation.
+	8.	Competitive Opportunities: Identify potential growth areas such as creating content to cover gaps, leveraging competitor insights, and adopting advanced SEO tactics.
+
+Data Input Example:
+	•	Meta tags: {meta_tags}
+	•	Headings: {headings}
+	•	Links: {links}
+	•	Images: {images}
+	•	URL structure: {url_structure}
+	•	Mobile-friendliness: {mobile_friendly}
+	•	Overall score: {score}
+
+Ensure the report is clearly structured, with actionable insights that balance technical depth for experts and clarity for non-technical readers. Highlight how recommended actions align with the strategic plan’s phases (short-, medium-, and long-term).
