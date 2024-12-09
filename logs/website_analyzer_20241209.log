@@ -12,3 +12,9 @@ which can be installed using pip:
 2024-12-09 11:58:32,373 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: 'ChartGenerator' object has no attribute 'create_pie_chart'
 2024-12-09 12:01:57,255 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: 'ChartGenerator' object has no attribute 'create_pie_chart'
 2024-12-09 12:09:01,675 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: argument of type 'NoneType' is not iterable
+2024-12-09 19:01:31,653 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: Model file not found at models/llama-2-7b-chat.gguf
+2024-12-09 19:02:05,291 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: Model file not found at models/llama-2-7b-chat.gguf
+2024-12-09 19:02:34,226 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: Model file not found at models/llama-2-7b-chat.gguf
+2024-12-09 19:08:53,778 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: SEOCollector.__init__() takes 1 positional argument but 2 were given
+2024-12-09 19:09:16,699 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: ContentCollector.__init__() takes 1 positional argument but 2 were given
+2024-12-09 19:19:30,788 - src.utils.error_handler - ERROR - Error in Main for https://garage-sport-auto.ch/: Model file not found at models/llama-2-7b-chat.gguf
